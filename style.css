@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+body{
+  width: 99vw;
+  height: 99vh;
+}
+
+
+
+
+.card>.img{
+  height: 125%;
+  width: 52%;
+  border-radius: 20px;
+  border: 3px solid rgb(31, 129, 151);
+  box-shadow: 0 0 30px rgb(31, 129, 151);
+  margin-left: -7%;
+  margin-top: -6.7%;
+  flex-wrap: wrap;
+}
+.filter{
+  display: none;
+}
